@@ -114,6 +114,9 @@ Disk Management
 <img src="images/pbs-disk-management.png" alt="proxmox backup server disk management"/>
 
 Create Datastore
+<img src="images/pbs-create-datastore.png" alt="proxmox backup server create datastore"/>
+
+Verify Datastore
 <img src="images/pbs-datastore.png" alt="proxmox backup server datastore"/>
 
 Create Backup Namespace
@@ -132,8 +135,20 @@ Verify login with new user
 <img src="images/pbs-login-admin.png" alt="proxmox backup server login admin"/>
 
 ## Proxmox VE Integration
+Login PVE
+<img src="images/pve-login.png" alt="proxmox ve login"/>
+
+PVE dashboard
+<img src="images/pve-dashboard.png" alt="proxmox ve dashboard"/>
+
 Add new storage with Proxmox Backup Server type
+<img src="images/pve-storage-type.png" alt="proxmox ve storage type"/>
+
 Fill the credentials to Proxmox Backup Server login
+<img src="images/pve-add-storage.png" alt="proxmox ve add storage"/>
+
+Check storage
+<img src="images/pve-pbs-integration.png" alt="proxmox ve and pbs integration"/>
 
 Access to VM on PVE
 Create sample folder and file
