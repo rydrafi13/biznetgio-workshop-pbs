@@ -151,9 +151,25 @@ Check storage
 <img src="images/pve-pbs-integration.png" alt="proxmox ve and pbs integration"/>
 
 Access to VM on PVE
+<img src="images/pve-vm.png" alt="proxmox vm"/>
+
 Create sample folder and file
+<img src="images/pve-create-file.png" alt="proxmox ve create folder and file"/>
+
 Test Backup Scenario
+<img src="images/pve-backup.png" alt="proxmox ve backup scenario"/>
+
+Verify Backup Status
+<img src="images/pve-completed-backup.png" alt="proxmox ve completed backup"/>
+
+Verify Backup
+<img src="images/pve-backup-status.png" alt="proxmox ve backup status"/>
+
 Verify Backup Content
+<img src="images/pbs-backup-content.png" alt="pbs backup content"/>
+
+Verify usage datastore
+<img src="images/pbs-datastore-dashboard.png" alt="pbs datastore dashboard"/>
 
 Access to VM on PVE
 Install failocate
