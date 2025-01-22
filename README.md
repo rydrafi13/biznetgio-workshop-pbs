@@ -105,3 +105,38 @@ Access from browser to pbs
 ```
 https://103.x.x.x:8007
 ```
+
+Proxmox Backup Server Dashboard
+<img src="images/pbs-dashboard.png" alt="proxmox backup server dashboard" style="height: 100px; width:100px;"/>
+
+## Proxmox Backup Server Administration
+Disk Management
+Create Datastore
+Create Backup Namespace
+User Management
+Create User Configuration
+Create Access Control to User
+
+## Proxmox VE Integration
+Add new storage with Proxmox Backup Server type
+Fill the credentials to Proxmox Backup Server login
+
+Access to VM on PVE
+Create sample folder and file
+Test Backup Scenario
+Verify Backup Content
+
+Access to VM on PVE
+Install failocate
+Test create 2gb file size
+Test Backup Scenario
+Verify Backup Content
+
+Access to VM on PVE
+Delete sample folder and file
+Test restore Scenario
+Verify VM
+
+Add new schedule backup
+
+## Proxmox Backup Server Maintenance
