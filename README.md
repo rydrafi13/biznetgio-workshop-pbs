@@ -111,11 +111,25 @@ Proxmox Backup Server Dashboard
 
 ## Proxmox Backup Server Administration
 Disk Management
+<img src="images/pbs-disk-management.png" alt="proxmox backup server disk management"/>
+
 Create Datastore
+<img src="images/pbs-datastore.png" alt="proxmox backup server datastore"/>
+
 Create Backup Namespace
+<img src="images/pbs-backup-namespace.png" alt="proxmox backup server backup namespace"/>
+
 User Management
+<img src="images/pbs-user-management.png" alt="proxmox backup server user management"/>
+
 Create User Configuration
+<img src="images/pbs-user-configuration.png" alt="proxmox backup server user configuration"/>
+
 Create Access Control to User
+<img src="images/pbs-access-control.png" alt="proxmox backup server access control"/>
+
+Verify login with new user
+<img src="images/pbs-login-admin.png" alt="proxmox backup server login admin"/>
 
 ## Proxmox VE Integration
 Add new storage with Proxmox Backup Server type
