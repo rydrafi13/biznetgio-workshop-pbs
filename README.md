@@ -107,7 +107,7 @@ https://103.x.x.x:8007
 ```
 
 Proxmox Backup Server Dashboard
-<img src="images/pbs-dashboard.png" alt="proxmox backup server dashboard" style="height: 100px; width:100px;"/>
+<img src="images/pbs-dashboard.png" alt="proxmox backup server dashboard"/>
 
 ## Proxmox Backup Server Administration
 Disk Management
