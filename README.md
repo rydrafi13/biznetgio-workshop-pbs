@@ -187,7 +187,7 @@ Verify Backup
 <img src="images/pve-backup-status-2.png" alt="proxmox ve backup status"/>
 
 Verify Backup Content
-<img src="images/pve-backup-content-2.png" alt="proxmox ve backup status"/>
+<img src="images/pbs-backup-content-2.png" alt="proxmox ve backup status"/>
 
 Verify usage datastore
 <img src="images/pbs-datastore-dashboard-2.png" alt="pbs datastore dashboard"/>
