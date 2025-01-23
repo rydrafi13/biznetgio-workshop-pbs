@@ -110,7 +110,9 @@ Proxmox Backup Server Dashboard
 <img src="images/pbs-dashboard.png" alt="proxmox backup server dashboard"/>
 
 ## Proxmox Backup Server Administration
-Disk Management
+
+### Disk Management
+Disk Management Menu
 <img src="images/pbs-disk-management.png" alt="proxmox backup server disk management"/>
 
 Create Datastore
@@ -122,7 +124,8 @@ Verify Datastore
 Create Backup Namespace
 <img src="images/pbs-backup-namespace.png" alt="proxmox backup server backup namespace"/>
 
-User Management
+### User Management
+User Management Menu
 <img src="images/pbs-user-management.png" alt="proxmox backup server user management"/>
 
 Create User Configuration
@@ -135,6 +138,7 @@ Verify login with new user
 <img src="images/pbs-login-admin.png" alt="proxmox backup server login admin"/>
 
 ## Proxmox VE Integration
+### Integration
 Login PVE
 <img src="images/pve-login.png" alt="proxmox ve login"/>
 
@@ -150,6 +154,7 @@ Fill the credentials to Proxmox Backup Server login
 Check storage
 <img src="images/pve-pbs-integration.png" alt="proxmox ve and pbs integration"/>
 
+### Test Backup 1
 Access to VM on PVE
 <img src="images/pve-vm.png" alt="proxmox vm"/>
 
@@ -171,6 +176,7 @@ Verify Backup Content
 Verify usage datastore
 <img src="images/pbs-datastore-dashboard.png" alt="pbs datastore dashboard"/>
 
+### Test Backup 2
 Access to VM on PVE
 <img src="images/pve-vm.png" alt="proxmox vm"/>
 
@@ -192,6 +198,7 @@ Verify Backup Content
 Verify usage datastore
 <img src="images/pbs-datastore-dashboard-2.png" alt="pbs datastore dashboard"/>
 
+### Test Restore
 Access to VM on PVE
 <img src="images/pve-vm.png" alt="proxmox vm"/>
 
@@ -210,7 +217,18 @@ Restore completed
 Verify VM
 <img src="images/pve-vm-restore-2.png" alt="proxmox vm restore vm"/>
 
+### Set schedule backup
 Add new schedule backup
 <img src="images/pve-schedule-backup.png" alt="proxmox ve schedule backup"/>
 
 ## Proxmox Backup Server Maintenance
+Prune and GC Menu
+<img src="images/pbs-prune-gc-menu.png" alt="proxmox backup server menu"/>
+
+### Prunning
+Set prune jobs
+<img src="images/pbs-prune-jobs.png" alt="proxmox backup server prune jobs"/>
+
+### Garbage Collect
+Set garbage collect schedule
+<img src="images/pbs-gc-schedule.png" alt="proxmox backup server gc schedule"/>
