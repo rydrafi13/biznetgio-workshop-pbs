@@ -193,10 +193,24 @@ Verify usage datastore
 <img src="images/pbs-datastore-dashboard-2.png" alt="pbs datastore dashboard"/>
 
 Access to VM on PVE
+<img src="images/pve-vm.png" alt="proxmox vm"/>
+
 Delete sample folder and file
+<img src="images/pve-vm-delete.png" alt="proxmox vm delete data"/>
+
+Shutdown/Stop VM
+<img src="images/pve-vm-stop.png" alt="proxmox vm stop"/>
+
 Test restore Scenario
+<img src="images/pve-vm-restore.png" alt="proxmox vm restore data"/>
+
+Restore completed
+<img src="images/pve-restore-status.png" alt="proxmox vm restore progress"/>
+
 Verify VM
+<img src="images/pve-vm-restore-2.png" alt="proxmox vm restore vm"/>
 
 Add new schedule backup
+<img src="images/pve-schedule-backup.png" alt="proxmox ve schedule backup"/>
 
 ## Proxmox Backup Server Maintenance
