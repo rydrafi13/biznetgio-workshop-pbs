@@ -172,10 +172,25 @@ Verify usage datastore
 <img src="images/pbs-datastore-dashboard.png" alt="pbs datastore dashboard"/>
 
 Access to VM on PVE
-Install failocate
+<img src="images/pve-vm.png" alt="proxmox vm"/>
+
 Test create 2gb file size
+<img src="images/pve-fallocate" alt="proxmox ve create file 2G"/>
+
 Test Backup Scenario
+<img src="images/pve-backup.png" alt="proxmox ve backup scenario"/>
+
+Verify Backup Status
+<img src="images/pve-backup-completed-2.png" alt="proxmox ve completed backup"/>
+
+Verify Backup
+<img src="images/pve-backup-status-2.png" alt="proxmox ve backup status"/>
+
 Verify Backup Content
+<img src="images/pve-backup-content-2.png" alt="proxmox ve backup status"/>
+
+Verify usage datastore
+<img src="images/pbs-datastore-dashboard-2.png" alt="pbs datastore dashboard"/>
 
 Access to VM on PVE
 Delete sample folder and file
