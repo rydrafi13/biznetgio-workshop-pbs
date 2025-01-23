@@ -175,7 +175,7 @@ Access to VM on PVE
 <img src="images/pve-vm.png" alt="proxmox vm"/>
 
 Test create 2gb file size
-<img src="images/pve-fallocate" alt="proxmox ve create file 2G"/>
+<img src="images/pve-fallocate.png" alt="proxmox ve create file 2G"/>
 
 Test Backup Scenario
 <img src="images/pve-backup.png" alt="proxmox ve backup scenario"/>
